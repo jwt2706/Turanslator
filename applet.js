@@ -1,4 +1,3 @@
-8
 const Applet = imports.ui.applet;
 const Lang = imports.lang;
 const Mainloop = imports.mainloop;
