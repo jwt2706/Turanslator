@@ -1,0 +1,9 @@
+{
+  "uuid": "Turanslate@jwt2706",
+  "name": "Quick Turkish to English Translator",
+  "description": "Translate between Turkish and English using LibreTranslate",
+  "icon": "accessories-dictionary",
+  "version": 1.0,
+  "max-instances": 1
+}
+
